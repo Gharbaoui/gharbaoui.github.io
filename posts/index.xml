@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://gharbaoui.github.io/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Aug 2024 18:19:25 +0100</lastBuildDate>
+    <atom:link href="https://gharbaoui.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://gharbaoui.github.io/posts/test/</link>
+      <pubDate>Fri, 30 Aug 2024 18:19:25 +0100</pubDate>
+      <guid>https://gharbaoui.github.io/posts/test/</guid>
+      <description>another test </description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>https://gharbaoui.github.io/posts/cp1/</link>
+      <pubDate>Fri, 30 Aug 2024 18:16:16 +0100</pubDate>
+      <guid>https://gharbaoui.github.io/posts/cp1/</guid>
+      <description>Welecom to 3D math for game devs always @(posedge clk) begin test &amp;lt;= 12; end </description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>https://gharbaoui.github.io/posts/cp2/</link>
+      <pubDate>Fri, 30 Aug 2024 18:16:16 +0100</pubDate>
+      <guid>https://gharbaoui.github.io/posts/cp2/</guid>
+      <description>Welecom to 3D math for game devs always @(posedge clk) begin test &amp;lt;= 12; end </description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>https://gharbaoui.github.io/posts/cp3/</link>
+      <pubDate>Fri, 30 Aug 2024 18:16:16 +0100</pubDate>
+      <guid>https://gharbaoui.github.io/posts/cp3/</guid>
+      <description>Welecom to 3D math for game devs always @(posedge clk) begin test &amp;lt;= 12; end </description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>https://gharbaoui.github.io/posts/cp4/</link>
+      <pubDate>Fri, 30 Aug 2024 18:16:16 +0100</pubDate>
+      <guid>https://gharbaoui.github.io/posts/cp4/</guid>
+      <description>Welecom to 3D math for game devs always @(posedge clk) begin test &amp;lt;= 12; end </description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>https://gharbaoui.github.io/posts/cp5/</link>
+      <pubDate>Fri, 30 Aug 2024 18:16:16 +0100</pubDate>
+      <guid>https://gharbaoui.github.io/posts/cp5/</guid>
+      <description>Welecom to 3D math for game devs always @(posedge clk) begin test &amp;lt;= 12; end </description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>https://gharbaoui.github.io/posts/cp6/</link>
+      <pubDate>Fri, 30 Aug 2024 18:16:16 +0100</pubDate>
+      <guid>https://gharbaoui.github.io/posts/cp6/</guid>
+      <description>Welecom to 3D math for game devs always @(posedge clk) begin test &amp;lt;= 12; end </description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>https://gharbaoui.github.io/posts/cp7/</link>
+      <pubDate>Fri, 30 Aug 2024 18:16:16 +0100</pubDate>
+      <guid>https://gharbaoui.github.io/posts/cp7/</guid>
+      <description>Welecom to 3D math for game devs always @(posedge clk) begin test &amp;lt;= 12; end </description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>https://gharbaoui.github.io/posts/cp8/</link>
+      <pubDate>Fri, 30 Aug 2024 18:16:16 +0100</pubDate>
+      <guid>https://gharbaoui.github.io/posts/cp8/</guid>
+      <description>Welecom to 3D math for game devs always @(posedge clk) begin test &amp;lt;= 12; end </description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>https://gharbaoui.github.io/posts/cp9/</link>
+      <pubDate>Fri, 30 Aug 2024 18:16:16 +0100</pubDate>
+      <guid>https://gharbaoui.github.io/posts/cp9/</guid>
+      <description>Welecom to 3D math for game devs always @(posedge clk) begin test &amp;lt;= 12; end </description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>https://gharbaoui.github.io/posts/first/</link>
+      <pubDate>Fri, 30 Aug 2024 18:16:16 +0100</pubDate>
+      <guid>https://gharbaoui.github.io/posts/first/</guid>
+      <description>Welecom to 3D math for game devs always @(posedge clk) begin test &amp;lt;= 12; end </description>
+    </item>
+  </channel>
+</rss>
