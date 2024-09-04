@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
+    <link>https://gharbaoui.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- 0.133.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Sep 2024 08:26:12 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gharbaoui.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Perspective Projection Matrix</title>
-      <link>http://localhost:1313/posts/perspective_matrix/</link>
+      <link>https://gharbaoui.github.io/posts/perspective_matrix/</link>
       <pubDate>Sun, 01 Sep 2024 08:26:12 +0100</pubDate>
-      <guid>http://localhost:1313/posts/perspective_matrix/</guid>
+      <guid>https://gharbaoui.github.io/posts/perspective_matrix/</guid>
       <description>I usually find it hard to take something at face value, while doing some graphics programming, I frequently came across matrices, and for the most part, they were not that complex since I knew some linear algebra beforehand. However, the perspective projection matrix seemed confusing, and I couldn&amp;rsquo;t wrap my head around it, so I decided to reconstruct it from the ground up
 Intuition Well, we have a 3D scene, but our screen is 2D.</description>
     </item>
