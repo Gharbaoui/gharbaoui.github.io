@@ -6,23 +6,8 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- 0.133.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Sep 2024 15:13:22 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 08:26:12 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Fpga_journey_graphics</title>
-      <link>http://localhost:1313/posts/fpga_journey_graphics/</link>
-      <pubDate>Tue, 03 Sep 2024 15:13:22 +0100</pubDate>
-      <guid>http://localhost:1313/posts/fpga_journey_graphics/</guid>
-      <description>Scrumbling ssd1306 how the screen will communicate with the rest of the system? OUR GOAL drive the screen using the FPGA - building the physical driver for the OLED screen
-HOW SCREENS WORK? HOW CAN YOU COMMUNICATE WITH IT? </description>
-    </item>
-    <item>
-      <title>Fpga_journey_001</title>
-      <link>http://localhost:1313/posts/fpga_journey_001/</link>
-      <pubDate>Mon, 02 Sep 2024 15:11:32 +0100</pubDate>
-      <guid>http://localhost:1313/posts/fpga_journey_001/</guid>
-      <description>Introducing FPGAs </description>
-    </item>
     <item>
       <title>Perspective Projection Matrix</title>
       <link>http://localhost:1313/posts/perspective_matrix/</link>
