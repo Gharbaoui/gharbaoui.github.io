@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gharbaoui.github.io/</loc>
-    <lastmod>2024-09-03T15:13:22+01:00</lastmod>
-  </url><url>
     <loc>https://gharbaoui.github.io/posts/</loc>
-    <lastmod>2024-09-03T15:13:22+01:00</lastmod>
+    <lastmod>2024-09-08T14:29:38+01:00</lastmod>
+  </url><url>
+    <loc>https://gharbaoui.github.io/</loc>
+    <lastmod>2024-09-08T14:29:38+01:00</lastmod>
   </url><url>
     <loc>https://gharbaoui.github.io/posts/perspective_matrix/</loc>
     <lastmod>2024-09-01T08:26:12+01:00</lastmod>
